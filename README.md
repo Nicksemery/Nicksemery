@@ -8,6 +8,8 @@ Estudante de Ciências da Computação e entusiasta da tecnologia, música e liv
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicksemery)
 
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/nícolas-rodrigues-emery-4785a3357)
+
 
 ### 💻 Habilidades
 
